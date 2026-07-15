@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Deniz 👋
 
-<!--
-**ddenizeemrs/ddenizeemrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer and Mathematics & Computer Science graduate focused on artificial intelligence, mobile application development, and data-driven products.
 
-Here are some ideas to get you started:
+Currently, I am the **Co-Founder & Lead Developer of Sıkışınca Aç**, a location-based urban hygiene platform built to help users discover nearby public restrooms and accessible facilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 📍 Developing **Sıkışınca Aç**
+- 📱 Building mobile applications with React Native and Expo
+- 🤖 Exploring artificial intelligence and data-driven systems
+- 🗺️ Working on location-based applications, maps, routing and navigation
+
+## 🛠️ Technologies
+
+Python · JavaScript · TypeScript · React Native · Expo · Node.js · SQL · Supabase · PostgreSQL · MongoDB · Docker · Git
+
+## 📫 Contact
+
+- LinkedIn: linkedin.com/in/deniz-emre-baş
+- Email: denizemrebas@gmail.com
